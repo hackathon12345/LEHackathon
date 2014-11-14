@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+     
+     <!-- need AndroidClass:showAsAction="ifRoom" to display in action bar -->
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_settings" />
+
+</menu>
