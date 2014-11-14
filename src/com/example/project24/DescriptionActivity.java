@@ -8,6 +8,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.TextView;
 
+// Hello I am Gene
 
 public class DescriptionActivity extends Activity {
 	WebView wb;
